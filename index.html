@@ -572,7 +572,7 @@
                 </div>
 
                 <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
-                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                    <form action="https://formspree.io/xdodbvzr" method="POST" role="form" class="php-email-form">
                         <div class="form-row">
                             <div class="form-group col-md-6">
                                 <label for="name">Your Name</label>
@@ -582,7 +582,7 @@
                             </div>
                             <div class="form-group col-md-6">
                                 <label for="name">Your Email</label>
-                                <input type="email" class="form-control" name="email" id="email" data-rule="email"
+                                <input type="email" class="form-control" name="_replyto" id="email" data-rule="email"
                                        data-msg="Please enter a valid email"/>
                                 <div class="validate"></div>
                             </div>
@@ -600,12 +600,11 @@
                             <div class="validate"></div>
                         </div>
                         <div class="mb-3">
-                            <div class="loading">Loading</div>
                             <div class="error-message"></div>
-                            <div class="sent-message">Your message has been sent. Thank you!</div>
+                            <div id = "sent-message" class="sent-message">Your message has been sent. Thank you!</div>
                         </div>
                         <div class="text-center">
-                            <button type="submit">Send Message</button>
+                            <input type="submit" id="submit" value="Send">
                         </div>
                     </form>
                 </div>
@@ -617,7 +616,17 @@
 
 </main><!-- End #main -->
 
+<script>
+    document.getElementById("submit").addEventListener("click", displayDate);
 
+    function displayDate() {
+        var element = document.getElementById("sent-message");
+        element.classList.remove("sent-message");
+        element.classList.add("sent-message2");
+    }
+
+
+</script>
 <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
 
 <!-- Vendor JS Files -->
