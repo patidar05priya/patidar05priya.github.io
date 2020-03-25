@@ -3,7 +3,32 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/src/main/java/com/optanix/api/PermissionApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/src/main/java/com/optanix/cluster/PermissionDatabase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/web/simlapp/config/userconfig.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/web/simlapp/config/usergroups.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/Readme.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/assets/css/style.css">
           <value>
             <set />
           </value>
