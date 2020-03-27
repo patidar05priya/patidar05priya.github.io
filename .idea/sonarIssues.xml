@@ -3,12 +3,37 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/federationConfig/federationA.dat">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/src/main/java/com/optanix/api/PermissionApi.java">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/src/main/java/com/optanix/api/SupportingApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/src/main/java/com/optanix/application/SIMLConcentratorMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/src/main/java/com/optanix/cluster/PermissionDatabase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/src/main/java/com/optanix/simlinterstate/TagInjectionProxySession.java">
           <value>
             <set />
           </value>
@@ -19,6 +44,36 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../New-GIT/cluster-node/web/simlapp/config/usergroups.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/dma-client/dma-config-local/opsConfig.dat">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/dma-client/src/main/java/com/optanix/repo/SIMLForwardPort.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/dma-client/src/main/java/com/optanix/repo/SIMLForwardPortHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/dma-client/src/main/java/com/optanix/testserver/TestWebServer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/heritage-adapter/src/main/java/com/optanix/heritageadapter/PullHeaderProxySocket.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../New-GIT/heritage-adapter/src/main/java/com/optanix/heritageadapterV2/ProxySession.java">
           <value>
             <set />
           </value>
